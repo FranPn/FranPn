@@ -21,12 +21,12 @@ Currently transitioning to **Azure AI Engineering** 🚀
 - Azure OpenAI, Semantic Kernel, RAG patterns
 - Agentic AI workflows
 
-## 📂 Portfolio projects _(in progress)_
+## 📂 Portfolio projects
 | Project | Stack | Status |
 |---|---|---|
+| [CLI Chatbot with Ollama](https://github.com/FranPn/chatbot-ai) | Python, Ollama, llama3.2 | ✅ Live |
 | RAG Q&A on documents | Python, Azure OpenAI, LangChain | 🔨 Coming soon |
-| Chatbot with Azure OpenAI | Python, Azure Bot Service | 🔨 Coming soon |
 | Semantic Kernel Agent | C#, Semantic Kernel, Azure | 🔨 Coming soon |
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/TUOUSERNAME](https://www.linkedin.com/in/francesco-piano-rm/?locale=en-US))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/francesco-piano-rm/)
