@@ -25,7 +25,7 @@ Currently transitioning to **Azure AI Engineering** 🚀
 | Project | Stack | Status |
 |---|---|---|
 | [CLI Chatbot with Ollama](https://github.com/FranPn/chatbot-ai) | Python, Ollama, llama3.2 | ✅ Live |
-| RAG Q&A on documents | Python, Azure OpenAI, LangChain | 🔨 Coming soon |
+| [RAG PDF Q&A](https://github.com/FranPn/rag-pdf) | Python, Ollama, FAISS, sentence-transformers | 🔨 In progress |
 | Semantic Kernel Agent | C#, Semantic Kernel, Azure | 🔨 Coming soon |
 
 ## 📫 Connect
