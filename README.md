@@ -24,6 +24,7 @@ Currently transitioning to **Azure AI Engineering** 🚀
 ## 📂 Portfolio projects
 | Project | Stack | Status |
 |---|---|---|
+| [Ecommerce Backend](https://github.com/FranPn/ecommerce-backend) | Go, PostgreSQL, JWT | ✅ Live |
 | [CLI Chatbot with Ollama](https://github.com/FranPn/chatbot-ai) | Python, Ollama, llama3.2 | ✅ Live |
 | [RAG PDF Q&A](https://github.com/FranPn/rag-pdf) | Python, Ollama, FAISS, sentence-transformers | ✅ Live |
 | [Semantic Kernel Agent](https://github.com/FranPn/semantic-kernel-agent) | C#, .NET 8, Semantic Kernel, Ollama | ✅ Live |
