@@ -27,6 +27,7 @@ Currently transitioning to **Azure AI Engineering** 🚀
 | [CLI Chatbot with Ollama](https://github.com/FranPn/chatbot-ai) | Python, Ollama, llama3.2 | ✅ Live |
 | [RAG PDF Q&A](https://github.com/FranPn/rag-pdf) | Python, Ollama, FAISS, sentence-transformers | ✅ Live |
 | [Semantic Kernel Agent](https://github.com/FranPn/semantic-kernel-agent) | C#, .NET 8, Semantic Kernel, Ollama | ✅ Live |
+| [Image Classifier ResNet50](https://github.com/FranPn/computer-vision) | Python, PyTorch, CUDA, ResNet50 | ✅ Live |
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/francesco-piano-rm/)
